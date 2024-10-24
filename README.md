@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pawan Kumar</h1>
 <h3 align="center">A passionate Flutter developer from Kolkata India</h3>
 
-- 🔭 I’m currently working on **Employee Tracking System**
+- 🔭 I’m currently working on **Mindpik Technologies Pvt Ltd**
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👯 I’m looking to collaborate on **Alumni App**
+- 👯 I’m looking to collaborate on **Employee Tracking System**
 
 - 📫 How to reach me **pawankant8790@gmail.com**
 
