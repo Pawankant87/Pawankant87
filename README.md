@@ -23,12 +23,12 @@
 ### 🌟 Projects
 #### 1. Employee Tracking System
 - **Description**: A comprehensive system for tracking employee attendance and performance.
-- **Technologies Used**: Flutter, Firebase
+- **Technologies Used**: Flutter, Firebase,REST API
 - **Features**: Attendance logs, performance metrics, and reporting tools.
 
 #### 2. Alumni App
 - **Description**: A networking platform for alumni to connect and collaborate.
-- **Technologies Used**: Flutter, Firebase
+- **Technologies Used**: Flutter, Firebase,REST API
 - **Features**: User profiles, messaging, and event management.
 
 #### 3. JoharGe (OTT)
@@ -38,17 +38,17 @@
 
 #### 4. Matka App
 - **Description**: A betting game application with real-time updates and analytics.
-- **Technologies Used**: Flutter, Firebase
+- **Technologies Used**:Flutter, Firebase,REST API
 - **Features**: Live scores, user authentication, and betting options.
 
 #### 5. Flix Player
 - **Description**: A media player application for streaming videos with an intuitive UI.
-- **Technologies Used**: Flutter
+- **Technologies Used**: Flutter, Firebase,REST API
 - **Features**: Playlist management, offline playback, and user reviews.
 
 #### 6. DFMS (Digital Forest Management System)
 - **Description**: A system designed for managing forest resources and data.
-- **Technologies Used**: Flutter, REST API
+- **Technologies Used**: Flutter, Firebase,REST API
 - **Features**: Resource tracking, data analytics, and reporting tools.
 
 ---
