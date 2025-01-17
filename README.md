@@ -51,6 +51,11 @@
 - **Technologies Used**: Flutter, Firebase,REST API
 - **Features**: Resource tracking, data analytics, and reporting tools.
 
+#### 6. Doc Scan
+- **Description**: An innovative system for efficient resource and data management.
+- **Technologies Used**: Flutter, Firebase, Google Ads
+- **Features**: Resource tracking, Advanced data analytics, and Comprehensive reporting tools.
+
 ---
 
 
