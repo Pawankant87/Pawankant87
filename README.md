@@ -55,7 +55,11 @@
 - **Description**: An innovative system for efficient resource and data management.
 - **Technologies Used**: Flutter, Firebase, Google Ads
 - **Features**: Resource tracking, Advanced data analytics, and Comprehensive reporting tools.
-
+  
+#### 8. A5 Networks
+- **Description**: A smart shopping platform offering a seamless and secure multi-category eCommerce experience.
+- **Technologies Used**: Flutter, Firebase, REST APIs
+- **Features**: Product catalog, Smart search & filters, Secure payments, Real-time delivery tracking, Flash deals, Wishlist & cart management.
 ---
 
 
