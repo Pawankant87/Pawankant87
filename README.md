@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pawan Kumar</h1>
 <h3 align="center">A passionate Flutter developer from Kolkata India</h3>
 
-- 🔭 I’m currently working on **Mindpik Technologies Pvt Ltd**
+- 🔭 I’m currently working on **CyberSWIFT Infotech Pvt. Ltd**
 
 - 🌱 I’m currently learning **Flutter**
 
